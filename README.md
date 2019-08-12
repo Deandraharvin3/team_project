@@ -7,6 +7,8 @@ Your [design product spec](https://hackmd.io/s/H1wGpVUh7) (described in that lin
 
 ## 1. User Stories (Required and Optional)
 
+<img src='https://user-images.githubusercontent.com/32419895/62902494-a793fd00-bd14-11e9-8f4f-1ba59122ea79.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 **Required Must-have Stories**
 
  * [Login/Signup screen]
